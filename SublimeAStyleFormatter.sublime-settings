@@ -1,0 +1,19 @@
+ {
+    // Print debug message
+    "debug": true,
+   "autoformat_on_save": true,
+
+
+   "options_default": {
+
+       "attach-inlines": true,
+        "indent": 2,
+        "indent-spaces": 1,
+        "delete-empty-lines": true,
+        "keep-one-line-statements": true,
+        "max-code-length": 20,
+        "min-conditional-indent": 0,
+
+    }
+
+}
